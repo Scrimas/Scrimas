@@ -1,4 +1,4 @@
-# Ismaël Philippe (Scrimas)
+# Ismaël Philippe (AKA Scrimas)
 
 I am a 3rd-year Biology student based in Grenoble, France, focusing on computational biology and bioinformatics. I use this space to build tools that bridge the gap between life sciences and software development.
 
