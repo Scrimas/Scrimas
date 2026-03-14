@@ -16,15 +16,5 @@ I am a 3rd-year Biology student based in Grenoble, France, focusing on computati
 - Languages: Python, R
 - Concepts: Sequence analysis, biostatistics, algorithm design, batch data processing, version control (Git).
 
-## GitHub Activity
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Scrimas&show_icons=true&theme=tokyonight" alt="GitHub stats" width="47%" />
- <img src="https://streak-stats.demolab.com/?user=Scrimas&theme=tokyonight" alt="GitHub Streak" width="50%" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scrimas&theme=tokyo-night" alt="Activity Graph" width="100%" />
-</p>
-
 ## Contact
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white)](mailto:isma.ph@proton.me)
