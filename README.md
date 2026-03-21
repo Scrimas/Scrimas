@@ -7,7 +7,7 @@ I am a 3rd-year Biology student based in Grenoble, France, focusing on computati
 - Current Learning: Expanding my software engineering practices, specifically focusing on clean, modular Python code, algorithmic problem-solving applied to genomic data, and automated biostatistical pipelines.
 
 ## Featured Work
-- **[SeqProfiler](https://github.com/Scrimas/SeqProfiler)**: A foundational bioinformatics pipeline written entirely from scratch in Python. It parses multi-FASTA files, identifies Open Reading Frames (ORFs) across both DNA strands, handles transcription and translation, and calculates key biochemical properties (Mass, Tm, pI, Extinction Coefficient) without relying on external dependencies (for calculations and logic at least) like Biopython.
+- **[SeqProfiler](https://github.com/Scrimas/SeqProfiler)**: A foundational bioinformatics pipeline written entirely from scratch in Python. It parses multi-FASTA files, identifies Open Reading Frames (ORFs) across both DNA strands, handles transcription and translation, and calculates key biochemical properties (Mass, Tm, pI, Extinction Coefficient) without relying on external dependencies like Biopython.
 
 ## Technologies & Tools
 - Languages: Python, R
