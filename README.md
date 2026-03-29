@@ -12,7 +12,7 @@ I am a 3rd-year Biology student based in Grenoble, France, focusing on computati
 
 ## Technologies & Tools
 - Languages: Python, R
-- Libraries: NumPy, Matplotlib, Tkinter
+- Libraries: NumPy, Matplotlib, CustomTkinter
 - Concepts: Sequence analysis, biostatistics, stochastic modeling, algorithm design, version control (Git).
 
 ## Contact
