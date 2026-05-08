@@ -20,4 +20,4 @@ I am a 3rd-year Biology student based in Grenoble, France, focusing on computati
 
 ## Contact
 
-[![Proton Mail](https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white)](mailto:isma.ph@proton.me)
+[![isma.ph@proton.me](https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white)](mailto:isma.ph@proton.me)
