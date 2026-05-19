@@ -17,7 +17,3 @@ I am a 3rd-year Biology student based in Grenoble, France, focusing on computati
 - Languages: Python, R
 - Libraries: NumPy, Matplotlib, CustomTkinter
 - Concepts: Sequence analysis, biostatistics, stochastic modeling, algorithm design, version control (Git).
-
-## Contact
-
-[![isma.ph@proton.me](https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white)](mailto:isma.ph@proton.me)
