@@ -1,10 +1,10 @@
 # Ismaël PHILIPPE (AKA Scrimas)
 
-I am a 3rd-year Biology student based in Grenoble, France, focusing on computational biology and bioinformatics. I use this space to build tools that bridge the gap between life sciences and software development.
+I am a Master's student in Molecular and Cellular Biology (MCB) based in Grenoble, France, focusing on computational biology and bioinformatics. I use this space to build tools that bridge the gap between life sciences and software development.
 
 ## Background
 
-- Academic Focus: B.Sc. in Biology.
+- Academic Focus: M.Sc. in Molecular and Cellular Biology (MCB).
 - Current Learning: Expanding my software engineering practices, specifically focusing on clean, modular Python code, algorithmic problem-solving applied to genomic data, and automated biostatistical pipelines.
 
 ## Featured Work
