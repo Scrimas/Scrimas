@@ -1,19 +1,26 @@
-# Ismaël PHILIPPE (AKA Scrimas)
+# Ismaël PHILIPPE — Scrimas
 
-I am a Master's student in Molecular and Cellular Biology (MCB) based in Grenoble, France, focusing on computational biology and bioinformatics. I use this space to build tools that bridge the gap between life sciences and software development.
+MCB master's student in Grenoble. I build bioinformatics tools from scratch — partly out of
+principle, mostly because reimplementing things from first principles is a great way to actually
+understand them. Slowly drifting toward Neuroscience & Neurobiology.
 
-## Background
+---
 
-- Academic Focus: M.Sc. in Molecular and Cellular Biology (MCB).
-- Current Learning: Expanding my software engineering practices, specifically focusing on clean, modular Python code, algorithmic problem-solving applied to genomic data, and automated biostatistical pipelines.
+## Projects
 
-## Featured Work
+**[SeqProfiler](https://github.com/Scrimas/SeqProfiler)**  
+Multi-FASTA bioinformatics pipeline in Python. ORF detection on both strands, transcription,
+translation, and biochemical properties (T_m, pI, extinction coefficients, molecular mass) —
+no BioPython. Built from scratch because I wanted to understand the math, not just call a function.
+Still tinkering with it — less about adding features at this point, more about using it as a reason
+to go deeper on both the biology and the code.
 
-- **[SeqProfiler](https://github.com/Scrimas/SeqProfiler)**: A foundational bioinformatics pipeline written entirely from scratch in Python. It parses multi-FASTA files, identifies Open Reading Frames (ORFs) across both DNA strands, handles transcription and translation, and calculates key biochemical properties (Mass, Tm, pI, Extinction Coefficient) without relying on external dependencies like Biopython.
-- **[GeneticDriftSim](https://github.com/Scrimas/GeneticDriftSim)**: A real-time visualization tool for population genetics based on the Wright-Fisher model. Built with NumPy and Matplotlib, it simulates stochastic processes like random sampling and mutation to illustrate how genetic diversity shifts toward fixation or loss in finite populations.
+**[GeneticDriftSim](https://github.com/Scrimas/GeneticDriftSim)**  
+Wright-Fisher population genetics simulator. Tracks allele frequency drift, mutation, and fixation
+across generations in finite populations.
 
-## Technologies & Tools
+---
 
-- Languages: Python, R
-- Libraries: NumPy, Matplotlib, CustomTkinter
-- Concepts: Sequence analysis, biostatistics, stochastic modeling, algorithm design, version control (Git).
+## Stack
+
+Python · R · NumPy · Matplotlib · CustomTkinter
