@@ -51,7 +51,9 @@ across generations in finite populations.
 
 ---
 
-## Stack
+## Donate
 
-**Research tooling** — Python · R · NumPy · Matplotlib · CustomTkinter  
-**TabEngine** — Svelte · TypeScript · Rust · Tauri
+TabEngine and everything else here is free and will stay that way. If any of it has been useful
+to you and you feel like donating:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/Scrimas)
