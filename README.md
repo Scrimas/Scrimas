@@ -19,6 +19,8 @@ Reach out:
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:isma.ph@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-philippe/)
 
+(For more informal interactions you can also send me a message on Discord: @scrimas)
+
 ---
 
 ## Featured
